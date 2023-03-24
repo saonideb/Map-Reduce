@@ -1,0 +1,1 @@
+{"selectColumnIndex": [3], "aggregationFunction": "count", "selectFuncColumnIndex": 0, "fromTable": "users", "whereColumnIndex": 2, "whereValue": "M", "whereOperator": "=", "groupByColumnIndex": [3], "havingOperator": ">", "havingThreshold": "10"}

@@ -1,0 +1,1 @@
+{"fromTableColumns": ["movieid"], "joinTableColumns": ["rating"], "fromTable": "movies", "joinTable": "rating", "joinType": "inner", "oncond": "movies.movieid=rating.movieid", "onop": "=", "onlval": "movies.movieid", "onrval": "rating.movieid", "wherecond": "rating.movieid>10", "wherelval": "rating.movieid", "whererval": "10", "whereop": ">"}
